@@ -12,6 +12,6 @@ header:
   image: ""
 ---
 
-Auesto è un sito statico, privo di _cookies_ e di qualsiasi altro meccanismo di raccolta di dati personali.
+Questo è un sito statico, privo di _cookies_ e di qualsiasi altro meccanismo di raccolta di dati personali.
 
 Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
