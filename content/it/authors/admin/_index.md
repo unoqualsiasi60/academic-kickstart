@@ -14,7 +14,7 @@ role: Avvocato
 
 # Organizations/Affiliations
 organizations:
-- name: Ente Pubblico Nazionale
+- name: Ente
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -75,9 +75,7 @@ Ho  installato centinaia di sistemi operativi su _computer_, _smartphone_ e _tab
 
 A proposito: per scrivere, prediligo la tastiera con configurazione _US Internationl with Dead Keys_. Chi usa questo _Layout_ ha già capito!.  A volte uso una tastiera meccanica, velocissima ma un po' rumorosa
 
-Per sopravvivere svolgo la professione di avvocato.
-
-Sono anche diplomato in Pianoforte e in Composizione _Tradizionale_ (quella che durava ben **dieci anni**, ai miei tempi).
+Sono diplomato in Pianoforte e in Composizione _Tradizionale_ (quella che durava ben **dieci anni**, ai miei tempi).
 
 ## Informazioni sulla tutela della riservatezza
 
@@ -85,6 +83,6 @@ Questo sito è di tipo statico, senza pubblicità, senza programmi in sottofondo
 
 Nessun dato personale, nessuna informazione di qualsiasi genere, nessun _biscotto_ viene registrato e memorizzato.
 
-Se avete necessità di contattarmi potete scrivermi alla mia casella di posta Gmail con _franco dot pasut_.
+QUESTO È, AL MOMENTO, UN MERO SITO DI PROVA senza effettivo contenuto.
 
 
