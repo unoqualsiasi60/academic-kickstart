@@ -16,6 +16,14 @@
     description = "Questo è un sito italiano di prova"
     date_format = "2/1/2006"
   [[it.menu.main]]
-    name = "Chi sono"
+    name = "Note personali"
     url = "#about"
     weight = 1
+  [[it.menu.main]]
+    name = "Ultimi articoli"
+    url = "#posts"
+    weight = 2
+  [[it.menu.main]]
+    name = "Per contattarmi"
+    url = "#contact"
+    weight = 3
