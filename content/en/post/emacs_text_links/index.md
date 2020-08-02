@@ -1,7 +1,4 @@
 ---
-header:
-  image: "/assets/images/emacs-logo.png"
-  caption: "Prova di immagine"
 title: "Emacs, Markdown-mode, insert spaces in text links created by the \"C-c C-l\" command"
 date: 2020-08-01
 categories:
@@ -9,6 +6,9 @@ categories:
 tags:
   - Emacs
   - Markdown
+image:
+  placement: 3
+  caption: 'Prova di immagine'
 ---
 
 
