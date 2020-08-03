@@ -1,6 +1,6 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
+title: Visualizza i blocchi appunti di Jupyter con Academic
+subtitle: Come utilizzare i blocchi appunti Jupyter in Academic
 date: "2020-07-05"
 slug: jupyter
 categories:
@@ -13,7 +13,7 @@ image:
 ---
 
 
-Test in Jupyter
+Prova di testo nell'articolo su Jupyter.
 
 
 ![](./universo.jpg)
