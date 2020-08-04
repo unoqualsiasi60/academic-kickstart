@@ -20,6 +20,7 @@ Test in Jupyter
 
 This is a [pdf document](./avviso.pdf).
 
+This is another [pdf document]({{ site.baseurl }}/assets/docs/avviso.pdf)
 
 ```python
 print("Welcome to Academic!")
