@@ -18,7 +18,7 @@ Test in Jupyter
 
 ![jpg](./universo.jpg)
 
-This is a [pdf document](/assets/docs/avviso.pdf).
+This is a [pdf document](./avviso.pdf).
 
 
 ```python
