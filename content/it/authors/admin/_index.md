@@ -14,11 +14,11 @@ role: Avvocato
 
 # Organizations/Affiliations
 organizations:
-- name: Ente
+- name: Ente Pubblico
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mi occupo di sistemi operativi _open source_, e di sistemi di _editing_ a linea di comando, in particolare, _Vim_ ed _Emacs_, sia applicati alla mia professione che alla musica.
+bio: La linea di comando consente di incrementare in modo esponenziale la produttività in ogni settore professionale.
 
 interests:
 - Sistemi Operativi
@@ -70,12 +70,11 @@ user_groups:
 - Visitors
 ---
 
-Sino dagli anni 1990 mi occupo di sistemi operativi _open source_. 
-Ho  installato centinaia di sistemi operativi su _computer_, _smartphone_ e _tablet_. Nei _computer_ utilizzo  varie distribuzioni _GNU/Linux_ tra cui _Manjaro, Debian, Ubuntu, Mint, Fedora_. Più di recente ho iniziato lo studio dei sistemi di _editing_ _open source_ a linea di comando, in particolare _Vim_ ed _Emacs_ che uso sia per la mia professione che per altri interessi personali, come la musica. Da quando ho scoperto _Org Mode_ non riesco più a farne a meno! Ho costruito e gestisco siti web dinamici utilizzando vari CMS (soprattutto WordPress e Blogger, ma anche Joomlajj) nonché siti statici con Jekyll e Hugo, attualmente l'ultimo è il mio preferito. Per il controllo di versione e le pubblicazioni  utilizzo  _Git_. Ho aperto account su _GitHub e GitLab_. Per la sincronizzazione del materiale sui vari dispositivi utilizzo NextCloud con collegamento prevalentemente con tecnologia  WebDav.
+Ho  installato centinaia di sistemi operativi su dispositivi di ogni tipo: _computer_, _smartphone_ e _tablet_. Nei _computer_. Per scrivere, anche per l'attività professionale, utilizzo risorse a linea di comando, in particolare _Vim_ ed _Emacs_. I sistemi a linea di comdando consentono di incrementare la produttività rispetto ai sistemi grafici.
 
-A proposito: per scrivere, prediligo la tastiera con configurazione _US Internationl with Dead Keys_. Chi usa questo _Layout_ ha già capito!.  A volte uso una tastiera meccanica, velocissima ma un po' rumorosa
+Per scrivere, preferisco la configurazione _US Internationl with Dead Keys_. 
 
-Sono diplomato in Pianoforte e in Composizione _Tradizionale_ (quella che durava ben **dieci anni**, ai miei tempi).
+Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione.
 
 ## Informazioni sulla tutela della riservatezza
 
