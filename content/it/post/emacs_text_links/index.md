@@ -74,3 +74,7 @@ Se volete utilizzare direttamente il tasto  `spazio`  la _minibuffer-local-compl
 Ringazio il servizio di assistenza jrblevin/markdown-mode Team per la soluzione.
 
 Grazie a tutti per la vostra attenzione.
+
+
+Pubblicato in origine sul [mio Notebook](https://francopasut.github.io/editors/emacs-space-link-text/)
+

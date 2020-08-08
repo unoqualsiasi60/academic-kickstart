@@ -78,3 +78,6 @@ Now you can directly digit   text links with spaces inside the minibuffer.
 Thank you to the  jrblevin/markdown-mode Team for the solution.
 
 Thank you for your attention.
+
+Originally published at [my Notebook](https://francopasut.github.io/editors/emacs-space-link-text/)
+
