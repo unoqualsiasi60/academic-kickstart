@@ -1,6 +1,8 @@
 ---
 title: "Emacs, Markdown-mode, insert spaces in text links created by the \"C-c C-l\" command"
 date: 2020-08-01
+canonical_url: "https://francopasut.github.io/editors/emacs-space-link-text/"
+slug: emacs_markdown_spaces
 categories:
   - Editors
 tags:
@@ -8,9 +10,10 @@ tags:
   - Markdown
 image:
   placement: 3
-  caption: 'Prova di immagine'
+  caption: 'Emacs logo'
 ---
 
+{{% toc %}}
 
 
 ##  The reference environment: Emacs, Markdown-mode, insert a link ##
