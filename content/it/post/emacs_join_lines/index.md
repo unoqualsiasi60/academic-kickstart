@@ -9,7 +9,7 @@ tags:
   - Emacs
 image:
   placement: 3
-  caption: 'Emacs green logo'
+  caption: 'Logo di Emacs in verde'
 ---
 
 {{% toc %}}
