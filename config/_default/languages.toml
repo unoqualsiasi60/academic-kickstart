@@ -11,7 +11,7 @@
 [it]
   languageCode = "it-it"
   contentDir = "content/it"
-  title = "Ludus Tonalis in italiano"
+  title = "Versione Italiana"
   [it.params]
     description = "Questo è un sito italiano di prova"
     date_format = "2/1/2006"
