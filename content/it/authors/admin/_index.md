@@ -14,28 +14,28 @@ role: Avvocato
 
 # Organizations/Affiliations
 organizations:
-- name: Ente Pubblico
+- name: Pubblica Amministrazione
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: La linea di comando consente di incrementare in modo esponenziale la produttività in ogni settore professionale.
+bio: Parliamo di tecnologia?
 
-interests:
-- Sistemi Operativi
-- Sistemi di scrittura a linea di comando
-- Costruzioni siti web con tecnologia CMS, Jekyll e Hugo
-
-education:
-  courses:
-  - course: Laurea in Giurisprudenza
-    institution: Università degli Studi di Milano
-    year: 
-  - course: Diploma in Pianoforte
-    institution: Conservatorio di Milano
-    year: 
-  - course: Diploma in Composizione 
-    institution: Conservatorio di Milano
-    year: 
+# interests:
+# - Sistemi Operativi
+# - Sistemi di scrittura a linea di comando
+# - Costruzioni siti web con tecnologia CMS, Jekyll e Hugo
+# 
+# education:
+#   courses:
+#   - course: Laurea in Giurisprudenza
+#     institution: Università degli Studi di Milano
+#     year: 
+#   - course: Diploma in Pianoforte
+#     institution: Conservatorio di Milano
+#     year: 
+#   - course: Diploma in Composizione 
+#     institution: Conservatorio di Milano
+#     year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,13 +70,31 @@ user_groups:
 - Visitors
 ---
 
-Ho  installato centinaia di sistemi operativi su dispositivi di ogni tipo: _computer_, _smartphone_ e _tablet_. Nei _computer_. Per scrivere, anche per l'attività professionale, utilizzo risorse a linea di comando, in particolare _Vim_ ed _Emacs_. I sistemi a linea di comdando consentono di incrementare la produttività rispetto ai sistemi grafici.
+Lo ammetto: non sono un tecnico programmatore. Sono un Avvocato. Lavoro per un Ente Pubblico.
 
-Per scrivere, preferisco la configurazione _US Internationl with Dead Keys_. 
+Però non riesco a fare a meno di dedicarmi (anche) alla tecnologia. 
 
-Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione.
+Ho  installato centinaia di sistemi operativi su dispositivi di ogni tipo: _computer_, _smartphone_ e _tablet_. È sempre emozionante vedere un vecchio PC riprendere vita con un sistema operativo _open source_. 
 
-## Informazioni sulla tutela della riservatezza
+Per scrivere, anche per l'attività professionale, utilizzo risorse a linea di comando, in particolare _Vim_ ed _Emacs_. 
+
+Sono assolutamente convinto che i sistemi a linea di comando consentano di incrementare la produttività rispetto ai corrispondenti sistemi grafici.
+
+Forse questo è il _leitmotiv_ del _non blog_ (perché, come potete notare, **questo non è un blog**) in cui vi trovate.
+
+Navigando in rete potreste incontrare altre mie risorse analoghe:
+- [Blog di FP](https://francopasut.blogspot.com/)
+- [Blog di FP in inglese](https://medium.com/@FrancoPasut)
+- [My Notebook](https://medium.com/@FrancoPasut)
+- [Medium](https://medium.com/@FrancoPasut)
+
+... e forse qualcos'altro. Ho perso un po' il conto.
+
+Sono anche diplomato (oggi, forse, si direbbe laureato) in Pianoforte e in Composizione (tradizionale, quella che durava ben 10 anni!).
+
+Su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q?view_as=subscriber) trovate qualche registrazione.
+
+# Informazioni sulla tutela della riservatezza
 
 Questo sito è di tipo statico, senza pubblicità, senza programmi in sottofondo, senza trucchi. Solo codice HTML autogenerato da Hugo con il modello Academic.
 

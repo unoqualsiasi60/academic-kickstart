@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Nothing
+role: Lawyer
 
 # Organizations/Affiliations
 organizations:
-- name: The University That Isn't Here
+- name: Public Administration
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Let's talk about technology?
 
-interests:
-- Artificial Idiocy
-- Computational Silence
-- Disinformation Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Idiocy
-    institution: University That Isn't Here
-    year: 2012
-  - course: MEng in Artificial Idiocy
-    institution: University That Isn't Here
-    year: 2009
-  - course: BSc in Artificial Idiocy
-    institution: University That Isn't Here
-    year: 2008
+# interests:
+# - Artificial Idiocy
+# - Computational Silence
+# - Disinformation Retrieval
+# 
+# education:
+#   courses:
+#   - course: PhD in Artificial Idiocy
+#     institution: University That Isn't Here
+#     year: 2012
+#   - course: MEng in Artificial Idiocy
+#     institution: University That Isn't Here
+#     year: 2009
+#   - course: BSc in Artificial Idiocy
+#     institution: University That Isn't Here
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
