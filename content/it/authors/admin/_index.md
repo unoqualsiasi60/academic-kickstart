@@ -78,7 +78,7 @@ Ho  installato centinaia di sistemi operativi su dispositivi di ogni tipo: _comp
 
 Per scrivere, anche per l'attività professionale, utilizzo risorse a linea di comando, in particolare _Vim_ ed _Emacs_. 
 
-Sono assolutamente convinto che i sistemi a linea di comando consentano di incrementare la produttività rispetto ai corrispondenti sistemi grafici.
+Sono assolutamente convinto che ogni risorsa a caratteri di testo sia enormemente più efficiente rispetto alla corrispondente risorsa grafica.
 
 Forse questo è il _leitmotiv_ del _non blog_ (perché, come potete notare, **questo non è un blog**) in cui vi trovate.
 
@@ -92,7 +92,7 @@ Navigando in rete potreste incontrare altre mie risorse analoghe:
 
 Sono anche diplomato (oggi, forse, si direbbe laureato) in Pianoforte e in Composizione (tradizionale, quella che durava ben 10 anni!).
 
-Su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q?view_as=subscriber) trovate qualche registrazione.
+Su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) trovate qualche registrazione.
 
 # Informazioni sulla tutela della riservatezza
 
