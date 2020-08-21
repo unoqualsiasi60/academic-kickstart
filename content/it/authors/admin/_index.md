@@ -69,28 +69,28 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Sono un Avvocato.
 
-Lo ammetto: non sono un tecnico programmatore. Sono un Avvocato. Lavoro per un Ente Pubblico.
+Per scrivere, anche per il mio lavoro, utilizzo da vari anni soltanto sistemi di _editing_ a linea di comando, soprattutto _Vim_ ed _Emacs_ su linguaggio LaTeX.
 
-Però non riesco a fare a meno di dedicarmi (anche) alla tecnologia. 
+La transizione dai sistemi di scrittura grafici tradizionali è stata impegnativa. Ma ora concordo pienamente con chi afferma che i sistemi basati sui carateri di testo siano enormemente più efficienti rispetto ai corrispondenti grafici.
 
-Ho  installato centinaia di sistemi operativi su dispositivi di ogni tipo: _computer_, _smartphone_ e _tablet_. È sempre emozionante vedere un vecchio PC riprendere vita con un sistema operativo _open source_. 
+Forse questo è il _leitmotiv_ del _non blog_ che state leggendo. O forse no.
 
-Per scrivere, anche per l'attività professionale, utilizzo risorse a linea di comando, in particolare _Vim_ ed _Emacs_. 
+In ogni caso in questo sito riporto suggerimenti e appunti (S&A) su vari argomenti. Se qualcuno li  troverà utili mi farà piacere. 
 
-Sono assolutamente convinto che ogni risorsa a caratteri di testo sia enormemente più efficiente rispetto alla corrispondente risorsa grafica.
+Navigando in rete potreste incontrare altre mie risorse:
 
-Forse questo è il _leitmotiv_ del _non blog_ (perché, come potete notare, **questo non è un blog**) in cui vi trovate.
-
-Navigando in rete potreste incontrare altre mie risorse analoghe:
 - [Blog di FP](https://francopasut.blogspot.com/)
-- [Blog di FP in inglese](https://medium.com/@FrancoPasut)
-- [My Notebook](https://medium.com/@FrancoPasut)
+- [Blog di FP in inglese](https://francopasut-en.blogspot.com/)
+- [My Notebook](https://francopasut.github.io/)
 - [Medium](https://medium.com/@FrancoPasut)
 
-... e forse qualcos'altro. Ho perso un po' il conto.
+... e forse qualcos'altro (ho perso un po' il conto).
 
-Sono anche diplomato (oggi, forse, si direbbe laureato) in Pianoforte e in Composizione (tradizionale, quella che durava ben 10 anni!).
+Alcuni articoli di questo sito sono tratti da quelle fonti.
+
+Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione tradizionale.
 
 Su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) trovate qualche registrazione.
 
