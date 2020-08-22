@@ -69,30 +69,22 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Sono un Avvocato.
-
-Per scrivere, anche per il mio lavoro, utilizzo da vari anni soltanto sistemi di _editing_ a linea di comando, soprattutto _Vim_ ed _Emacs_ su linguaggio LaTeX.
+Sono un Avvocato.  Utilizzo sistemi di _editing_ a linea di comando, in prevalenza _Vim_ ed _Emacs_, su linguaggio LaTeX.
 
 La transizione dai sistemi di scrittura grafici tradizionali è stata impegnativa. Ma ora concordo pienamente con chi afferma che i sistemi basati sui carateri di testo siano enormemente più efficienti rispetto ai corrispondenti grafici.
 
-Forse questo è il _leitmotiv_ del _non blog_ che state leggendo. O forse no.
+Forse questo è il _leitmotiv_ di questo _non blog_ in cui pubblico suggerimenti e appunti (S&A) su vari argomenti. Se qualcuno li  troverà utili mi farà piacere. Tutto qui.
 
-In ogni caso in questo sito riporto suggerimenti e appunti (S&A) su vari argomenti. Se qualcuno li  troverà utili mi farà piacere. 
-
-Navigando in rete potreste incontrare altre mie risorse:
+Navigando in rete potreste trovare altre mie risorse dalle quali ho tratto alcuni miei articoli.
 
 - [Blog di FP](https://francopasut.blogspot.com/)
 - [Blog di FP in inglese](https://francopasut-en.blogspot.com/)
 - [My Notebook](https://francopasut.github.io/)
 - [Medium](https://medium.com/@FrancoPasut)
 
-... e forse qualcos'altro (ho perso un po' il conto).
 
-Alcuni articoli di questo sito sono tratti da quelle fonti.
 
-Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione tradizionale.
-
-Su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) trovate qualche registrazione.
+Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione tradizionale:  su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) trovate qualche registrazione.
 
 # Informazioni sulla tutela della riservatezza
 
