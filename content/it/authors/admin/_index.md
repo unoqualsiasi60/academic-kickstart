@@ -85,13 +85,3 @@ Navigando in rete potreste trovare altre mie risorse dalle quali ho tratto alcun
 
 
 Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione tradizionale:  su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) trovate qualche registrazione.
-
-# Informazioni sulla tutela della riservatezza
-
-Questo sito è di tipo statico, senza pubblicità, senza programmi in sottofondo, senza trucchi. Solo codice HTML autogenerato da Hugo con il modello Academic.
-
-Nessun dato personale, nessuna informazione di qualsiasi genere, nessun _biscotto_ viene registrato e memorizzato.
-
-QUESTO È, AL MOMENTO, UN MERO SITO DI PROVA senza effettivo contenuto.
-
-
