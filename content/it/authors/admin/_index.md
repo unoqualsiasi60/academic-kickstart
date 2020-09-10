@@ -69,19 +69,21 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Sono un Avvocato.  Utilizzo sistemi di _editing_ a linea di comando, in prevalenza _Vim_ ed _Emacs_, su linguaggio LaTeX.
+Chi sono? Non ha importanza. 
 
-La transizione dai sistemi di scrittura grafici tradizionali è stata impegnativa. Ma ora concordo pienamente con chi afferma che i sistemi basati sui carateri di testo siano enormemente più efficienti rispetto ai corrispondenti grafici.
+Scrivo solo per il gusto di scrivere e per tenere la mente allenata. 
 
-Forse questo è il _leitmotiv_ di questo _non blog_ in cui pubblico suggerimenti e appunti (S&A) su vari argomenti. Se qualcuno li  troverà utili mi farà piacere. Tutto qui.
+Se qualcuno troverà qualcosa di interessante tra i miei scritti mi farà piacere. 
 
-Navigando in rete potreste trovare altre mie risorse dalle quali ho tratto alcuni miei articoli.
+In rete ho giocato un po':
 
 - [Blog di FP](https://francopasut.blogspot.com/)
 - [Blog di FP in inglese](https://francopasut-en.blogspot.com/)
 - [My Notebook](https://francopasut.github.io/)
 - [Medium](https://medium.com/@FrancoPasut)
+- [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) 
 
+Tutto qui. 
 
+Buona lettura!
 
-Sono anche diplomato (oggi si direbbe laureato) in Pianoforte e in Composizione tradizionale:  su [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) trovate qualche registrazione.
