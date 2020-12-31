@@ -69,21 +69,17 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Who am I? It doesn't matter. 
-
-I just write for the pleasure of writing and for keeping my mind trained. 
+I only write to keep my mind active
 
 If someone will find something interesting among my writings I will be pleased. 
 
-I played a bit on the web:
+That's all!
 
-- [FP BLOG (in italian)](https://francopasut.blogspot.com/)
-- [FP BLOG (in english)](https://francopasut-en.blogspot.com/)
+Other resources online:
+
+- [FP BLOG](https://francopasut-en.blogspot.com/)
 - [My Notebook](https://francopasut.github.io/)
 - [Medium](https://medium.com/@FrancoPasut)
 - [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) 
-
-That's all. 
 
 Enjoy reading

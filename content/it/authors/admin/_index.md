@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Parliamo di tecnologia?
+bio: Loquimur
 
 # interests:
 # - Sistemi Operativi
@@ -69,16 +69,14 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Chi sono? Non ha importanza. 
 
 Scrivo solo per il gusto di scrivere e per tenere la mente allenata. 
 
 Se qualcuno troverà qualcosa di interessante tra i miei scritti mi farà piacere. 
 
-In rete ho giocato un po':
+Altre risorse in rete:
 
 - [Blog di FP](https://francopasut.blogspot.com/)
-- [Blog di FP in inglese](https://francopasut-en.blogspot.com/)
 - [My Notebook](https://francopasut.github.io/)
 - [Medium](https://medium.com/@FrancoPasut)
 - [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) 
