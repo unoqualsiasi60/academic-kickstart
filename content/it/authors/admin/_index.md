@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Scrivo solo per il gusto di scrivere e per tenere la mente allenata. 
+Scrivo per tenere la mente allenata e per lasciare qualche traccia.
 
 Se qualcuno troverà qualcosa di interessante tra i miei scritti mi farà piacere. 
 
