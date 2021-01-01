@@ -11,12 +11,12 @@
 [it]
   languageCode = "it-it"
   contentDir = "content/it"
-  title = "F.P. Cogitationes"
+  title = "Domus"
   [it.params]
     description = "Questo è un sito italiano di prova"
     date_format = "2/1/2006"
   [[it.menu.main]]
-    name = "Note personali"
+    name = "Non presentazione"
     url = "#about"
     weight = 1
   [[it.menu.main]]
