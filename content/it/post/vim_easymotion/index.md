@@ -17,7 +17,7 @@ image:
 
 
 
-## Velore introduzione
+## Breve introduzione
 
 Vim può saltare velocemente attraverso diversi documenti.
 
