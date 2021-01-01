@@ -75,14 +75,14 @@ Scrivo per allenare la mente e per lasciare qualche traccia.
 
 Se qualcuno troverà qualcosa di interessante tra i miei scritti mi farà piacere. 
 
+Tutto qui. 
+
 Altre risorse in rete:
 
 - [Blog di FP](https://francopasut.blogspot.com/)
 - [My Notebook](https://francopasut.github.io/)
 - [Medium](https://medium.com/@FrancoPasut)
 - [YouTube](https://www.youtube.com/channel/UCQatUUJTIhFNKr1dMYx1N7Q) 
-
-Tutto qui. 
 
 Buona lettura!
 
