@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Scrivo per tenere la mente allenata e per lasciare qualche traccia.
+Scrivo per allenare la mente e per lasciare qualche traccia.
 
 Se qualcuno troverà qualcosa di interessante tra i miei scritti mi farà piacere. 
 
