@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome to the _"domus cogitationibus"_ (home of thoughts) of F.P.
+Welcome to the _"Domus Cogitationibus"_ (home of thoughts) of F.P.
 
 I only write to keep my mind active and to leave some tracks.
 
