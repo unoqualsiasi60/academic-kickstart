@@ -69,7 +69,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I only write to keep my mind active
+Welcome to the _"domus cogitationibus"_ (home of thoughts) of F.P.
+
+I only write to keep my mind active and to leave some tracks.
 
 If someone will find something interesting among my writings I will be pleased. 
 

@@ -16,7 +16,7 @@
     description = "Questo è un sito italiano di prova"
     date_format = "2/1/2006"
   [[it.menu.main]]
-    name = "Non presentazione"
+    name = "Benvenuti"
     url = "#about"
     weight = 1
   [[it.menu.main]]

@@ -69,6 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Benvenuti nella _"Domus cogitationibus_" di F.P.
 
 Scrivo per allenare la mente e per lasciare qualche traccia.
 
