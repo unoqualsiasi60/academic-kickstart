@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Benvenuti nella _"Domus Cogitationibus_" di F.P.
+Benvenuti nella _"Domus Verborum" di F.P.
 
 Scrivo per allenare la mente e per lasciare qualche traccia.
 

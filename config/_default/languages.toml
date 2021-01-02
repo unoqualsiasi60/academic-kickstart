@@ -11,7 +11,7 @@
 [it]
   languageCode = "it-it"
   contentDir = "content/it"
-  title = "D.C.F.P."
+  title = "D.V.F.P."
   [it.params]
     description = "Questo è un sito italiano di prova"
     date_format = "2/1/2006"
